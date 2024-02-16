@@ -1,6 +1,10 @@
+import Test from  "./Test"
+
 function App() {
   return (
-    <h1>React-Js with React</h1>
+    <>
+    <Test/>
+    </>
   );
 }
 

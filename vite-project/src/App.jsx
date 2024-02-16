@@ -1,7 +1,11 @@
+import Test from "./test"
 function App() {
 
   return (
-    <h1>React-Js with vite</h1>
+    <div>
+      <Test />
+      <h1>Testing!</h1>
+    </div>
   )
 }
 
